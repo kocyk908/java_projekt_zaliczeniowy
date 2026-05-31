@@ -1,0 +1,16 @@
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/engine/GameEngine.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/events/MarketSlowdownEvent.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/domain/Employee.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/domain/Intern.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/events/RandomEventManager.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/events/GameEvent.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/events/InvestorFundingEvent.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/ui/ConsoleUI.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/domain/Developer.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/domain/Company.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/domain/ProjectStatus.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/domain/Manager.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/Main.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/domain/Project.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/events/UnexpectedBugEvent.java
+/workspaces/java-5laby-projekt-/src/main/java/com/university/techcorp/domain/Tester.java
