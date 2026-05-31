@@ -10,6 +10,7 @@ com/university/techcorp/ui/ConsoleUI.class
 com/university/techcorp/events/InvestorFundingEvent.class
 com/university/techcorp/domain/Employee.class
 com/university/techcorp/events/GameEvent.class
+com/university/techcorp/domain/DataEngineer.class
 com/university/techcorp/domain/ProjectStatus.class
 com/university/techcorp/domain/Developer.class
 com/university/techcorp/domain/Company.class
